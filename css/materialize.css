@@ -15,6 +15,16 @@ background-image:url(https://s3.amazonaws.com/codecademy-content/projects/pocket
 
 }
 
+.ad{
+
+background-image:url(img/ad.png);
+        background-size:cover;  
+        background-repeat:no-repeat;
+        background-color: #140e07; 
+        color:#fff;
+
+}
+
 
 .materialize-red.lighten-5 {
   background-color: #fdeaeb !important;
